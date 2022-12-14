@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762999004152",
+    "project_id": "insucompu-4ba95",
+    "storage_bucket": "insucompu-4ba95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762999004152:android:005103b3e4b32db2f1540d",
+        "android_client_info": {
+          "package_name": "com.example.insucompu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762999004152-kk2a1o68buhqviseoacp66uppmo7shel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm91XUJ7_8I0aBxluauHBcFToPgWsPFxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762999004152-kk2a1o68buhqviseoacp66uppmo7shel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

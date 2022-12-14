@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InsuCompu</string>
+    <string name="loginTitle">Login</string>
+    <string name="loginBtn">Login</string>
+    <string name="signinBtn">SignIn</string>
+    <string name="passwordTxt">Password</string>
+    <string name="mailTxt">Email</string>
+    <string name="loginAuxTxt">Dont have an account yet?</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="userName">Name</string>
+    <string name="userSecondName">Second Name</string>
+    <string name="userPhone">Phone</string>
+    <string name="userBusiness">Business</string>
+    <string name="signinSucces">Success</string>
+    <string name="catalog">Catalog</string>
+    <string name="search">Search</string>
+    <string name="addProduct">Add Product</string>
+    <string name="saveProduct">Save Product</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="disponibility">Stock</string>
+    <string name="productSuccess">Product Added</string>
+    <string name="itemDeleted">Item Deleted</string>
+    <string name="DeleteItem">Delete Item?</string>
+    <string name="Delete">Delete</string>
+    <string name="Cancel">Cancel</string>
+
+    <!--DESCRIPTIONS-->
+    <string name="facebook_icon">Facebook</string>
+    <string name="instagram_icon">Instragram</string>
+    <string name="whatsapp_icon">WhatsApp</string>
+
+    <!--LONG STRINGS-->
+    <string name="terms_example">It is a necessary requirement for the acquisition of the services offered on this site, that you read and accept the following Terms and Conditions that are written below. The use of our services will imply that you have read and accepted the Terms and Conditions of Use in this document. All the services that are offered by our website could be created, charged, sent or presented by a third web page and in such case they would be subject to their own Terms and Conditions. In some cases, to acquire a service, registration by the user will be necessary, with the entry of reliable personal data and definition of a password. The user can choose and change the password for their account administration access at any time, in case they have registered and that it is necessary for the request of any of our services. InsuCompu México does not assume responsibility in the event that said key is delivered to third parties. All purchases and transactions carried out through this website are subject to a confirmation and verification process, which could include verification and availability of the product, validation of the payment method, validation of the invoice ( if it exists) and compliance with the conditions required by the selected means of payment. In some cases verification via email may be required. The prices of the services offered on this Website are valid only for purchases made on this website.</string>
+
+</resources>
